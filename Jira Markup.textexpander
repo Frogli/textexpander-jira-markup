@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Jira Markup</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>/jinfo</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2020-03-12T09:09:33Z</date>
+			<key>label</key>
+			<string>Info panel</string>
+			<key>modificationDate</key>
+			<date>2020-03-27T13:13:31Z</date>
+			<key>plainText</key>
+			<string>{panel:title=%filltext:name=Title%|borderColor=#bce8f1|titleBGColor=#d9edf7| titleColor=#31708f}
+%clipboard
+{panel}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>DDFE3C0B-2FFA-4CA8-9EDA-2335F932EFD5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/jwarn</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2020-03-12T09:09:33Z</date>
+			<key>label</key>
+			<string>Warn panel</string>
+			<key>modificationDate</key>
+			<date>2020-03-27T13:13:55Z</date>
+			<key>plainText</key>
+			<string>{panel:title=%filltext:name=Title%|borderColor=#ebccd1|titleBGColor=#f2dede| titleColor=#a94442}
+%clipboard
+{panel}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>24A5039F-2C44-413A-80AB-0D7EDB50B2DC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
